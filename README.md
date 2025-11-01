@@ -1,1 +1,13 @@
 # A-Social-Media-Sentiment-Analysis-on-Election-Trends<img width="1112" height="841" alt="Screenshot 2025-11-01 110721" src="https://github.com/user-attachments/assets/89d972a4-0ee5-4a8f-843e-6fd4a81d9c36" />
+# Example output
+
+When you run sentiment_analysis.py, you’ll see a bar chart:
+
+Green = Positive comments
+
+Red = Negative comments
+
+Gray = Neutral comments
+
+
+
